@@ -6,8 +6,7 @@
 
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
-  text-align: justify;
-}
+ }
 
 a, table.table a {
   color: var(--global-theme-color);
@@ -51,7 +50,9 @@ a, table.table a {
     p {
       display: inline-block;
       margin: 0;
+      text-align: justify;
     }
+    
   }
 }
 
