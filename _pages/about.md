@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Dream 👉 Believe 👉 Achieve 👉 Succeed <br>
-             Currently building my way into the world of robots.
+description: Dream 👉 Believe 👉 Achieve 👉 Succeed 
 
 profile:
   align: right
