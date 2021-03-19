@@ -181,6 +181,7 @@ a, table.table a {
   }
   .contact-note {
     font-size: 0.8rem;
+    text-align: center;
   }
 }
 
@@ -189,6 +190,7 @@ a, table.table a {
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
+  text-align: center;
   .container {
     color: var(--global-footer-text-color);
     padding-top: 9px;
@@ -208,6 +210,7 @@ footer.sticky-bottom {
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
+  text-align: center;
 }
 
 
