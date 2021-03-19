@@ -41,6 +41,7 @@ a, table.table a {
 .profile {
   margin-left: 1rem;
   width: 100%;
+  text-align: justify;
 
   .address {
     margin-bottom: 5px;
@@ -50,7 +51,6 @@ a, table.table a {
     p {
       display: inline-block;
       margin: 0;
-      text-align: justify;
     }
   }
 }
