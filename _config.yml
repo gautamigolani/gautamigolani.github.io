@@ -12,8 +12,8 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   <br>
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  <br>
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  <br> 
 
 icon: 🤖 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
@@ -59,7 +59,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
 contact_note: >
-  Best way to connect with me is by sending an email.
+  Best way to contact me is by sending an email.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
