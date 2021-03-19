@@ -6,6 +6,7 @@
 
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
+  text-align: justify;
  }
 
 a, table.table a {
@@ -41,8 +42,7 @@ a, table.table a {
 .profile {
   margin-left: 1rem;
   width: 100%;
-  text-align: justify;
-
+  
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
