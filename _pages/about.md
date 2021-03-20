@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 description: Dream 👉 Believe 👉 Achieve 👉 Succeed <br>
              Currently building my way into the world of robots.
