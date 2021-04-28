@@ -42,15 +42,6 @@
             </a>
           </li>
           {% endif %}
-          <!-- CV link -->
-          <li class="nav-item {% if page.title == 'CV' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/assets/pdf/GPG_CV.pdf' | relative_url }}">
-              CV
-              {% if page.title == "CV" %}
-                <span class="sr-only">(current)</span>
-              {% endif %}
-            </a>
-          </li>
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "title" %}
           {% for p in sorted_pages %}
@@ -64,6 +55,15 @@
               </a>
           </li>
           {% endif %}
+          <!-- CV -->
+          <li class="nav-item {% if page.title == 'cv' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/assets/pdf/GPG_CV.pdf' | relative_url }}">
+              cv
+              {% if page.title == "cv" %}
+                <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
           {% endfor %}
           {% if site.enable_darkmode %}
             <div class = "toggle-container">
