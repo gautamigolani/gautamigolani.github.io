@@ -139,8 +139,8 @@ plugins:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Golani
+  first_name: [Gautami]
 
   style: apa
   locale: en
