@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Currently building my way into the world of robots.
+description: Current status - Building my way into the world of robots.
 
 profile:
   align: right
