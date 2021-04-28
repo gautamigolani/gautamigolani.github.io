@@ -2,10 +2,10 @@
 <footer class="fixed-bottom">
   <div class="container mt-0">
     &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}.
-    {{ site.footer_text }}
+    {{ site.footer_text }}<br>
     {% if site.impressum_path %}
     <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
-    {% endif %}
+    {% endif %}<br>
     {% if site.last_updated %}
     Last updated: {{ "now" | date: '%B %d, %Y' }}.
     {% endif %}
