@@ -42,6 +42,8 @@
             </a>
           </li>
           {% endif %}
+          <!-- CV link -->
+         <a class="page-link" href="{{ '/assets/pdf/GPG_CV.pdf' | prepend: site.baseurl | prepend: site.url }}">CV</a> 
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "title" %}
           {% for p in sorted_pages %}
@@ -64,8 +66,6 @@
               </a>
             </div>
           {% endif %}
-          <!-- CV link -->
-         <a class="page-link" href="{{ '/assets/pdf/GPG_CV.pdf' | prepend: site.baseurl | prepend: site.url }}">CV</a> 
         </ul>
       </div>
     </div>
