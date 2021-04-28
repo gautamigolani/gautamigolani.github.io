@@ -43,7 +43,14 @@
           </li>
           {% endif %}
           <!-- CV link -->
-         <a class="page-link" href="{{ '/assets/pdf/GPG_CV.pdf' | prepend: site.baseurl | prepend: site.url }}">CV</a> 
+          <li class="nav-item {% if page.title == 'CV' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/assets/pdf/GPG_CV.pdf' | relative_url }}">
+              CV
+              {% if page.title == "CV" %}
+                <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "title" %}
           {% for p in sorted_pages %}
