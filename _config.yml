@@ -169,6 +169,7 @@ enable_math:                true
 enable_tooltips:            false
 enable_darkmode:            true
 show_social_icons:          false
+enable_project_categories:  true   # enables categorization of projects into multiple categories
 
 # -----------------------------------------------------------------------------
 # Library versions
