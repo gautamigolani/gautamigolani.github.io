@@ -44,7 +44,7 @@ a, table.table a {
 
 .profile {
   margin-left: 1rem;
-  width: 30%;
+  width: 100%;
   
   .address {
     margin-bottom: 5px;
@@ -164,6 +164,7 @@ a, table.table a {
   font-size: 1rem;
   color: var(--global-text-color);
   margin-bottom: 5px;
+  margin-top: 5px;
 }
 
 .news table th {

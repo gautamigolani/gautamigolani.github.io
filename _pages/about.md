@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Building my way into the world of robots.
+description: 
 
 profile:
   align: right
