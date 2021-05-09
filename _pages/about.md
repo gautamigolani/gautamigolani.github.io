@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: {NOTE: THIS WEBSITE IS BEING UPDATED}
+description: "NOTE: THIS WEBSITE IS BEING UPDATED"
 
 profile:
   align: right
