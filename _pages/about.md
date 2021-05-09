@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: 
+description: {NOTE: THIS WEBSITE IS BEING UPDATED}
 
 profile:
   align: right
@@ -26,5 +26,6 @@ Prior to this, I obtained my bachelor’s degree in Mechatronics Engineering wit
   <li>Interaction of robots with the environment</li>
 </ul>
 
-If you’re looking to get into robotics or interested in robotics in general, I’d love to hear from you. You can reach out to me <a href="gautamig@live.com">here</a>. 
+If you’re looking to get into robotics or interested in robotics in general, I’d love to hear from you. You can reach out to me <a href="mailto: gautamig@live.com">here</a>. 
+<br>
 
