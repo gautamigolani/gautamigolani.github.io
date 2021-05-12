@@ -58,9 +58,8 @@ a, table.table a {
   }
 }
 
-@media (min-width: 350px) {
+@media (min-width: 576px) {
   .profile {
-    margin-left: 5rem;
     width: 30%;
     .address {
       p { display: block; }
