@@ -20,8 +20,7 @@ I graduated from the Electrical and Computer Engineering Department from <a href
 Prior to this, I obtained my bachelor’s degree in Mechatronics Engineering with a minor in Robotics & Automation from <a href="https://www.manipaldubai.com/mud.html">Manipal Academy of Higher Education</a> (MAHE), Dubai. My undergraduate thesis was focused on the development of an autonomous robot done under the mentorship of <a href="https://scholar.google.com/citations?user=Geu_kHAAAAAJ&hl=en">Prof. Royson Dsouza</a> at the Manipal Centre of Robotics Excellence Laboratory.
 
 <b>Research Interests:</b>
-<ul> 
-  <li>Manipulators and mobile robots</li>
+<ul> <li>Manipulators and mobile robots</li>
   <li>Design, control, and motion planning</li>
   <li>Interaction of robots with the environment</li>
 </ul>
