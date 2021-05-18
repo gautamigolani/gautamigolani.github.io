@@ -30,6 +30,22 @@ For the past few years, manipulators have been used for a number of different ap
 <br>
 
 <h2 id="Model">Complete Model</h2>
+<h3 id="Part1">Inverse Kinematics and Path Planning</h3>
+
+In general, there are a number of path planning schemes available for manipulators, but here the focus will be on the RMP scheme.
+By using the differential kinematic equation stated below, the path planning model for the robotic manipulator can be modeled.
+<center>
+    <img src="https://latex.codecogs.com/svg.latex?r_{d}&space;=&space;f(\theta)" title="r_{d} = f(\theta)" />
+</center>
+<br>
+where <img src="https://latex.codecogs.com/svg.latex?\small&space;r_{d}\in&space;R^m" title="\small r_{d}\in R^m" /> is the task coordinate and <img src="https://latex.codecogs.com/svg.latex?\small&space;f(\theta)\in&space;R^n" title="\small f(\theta)\in R^n" /> is the joint coordinate, respectively.
+Differentiating the above equation w.r.t time,
+<br> 
+<center>
+<img src="https://latex.codecogs.com/svg.latex?\dot{r_{d}}&space;=&space;J(\theta)\dot{\theta}" title="\dot{r_{d}} = J(\theta)\dot{\theta}" />
+</center>
+<br>
+where <img src="https://latex.codecogs.com/svg.latex?\small&space;J(\theta):R^n-R^m" title="\small J(\theta):R^n-R^m" /> is the Jacobian matrix.
 
 
 
