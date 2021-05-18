@@ -295,20 +295,22 @@ footer.sticky-bottom div {
   .card-item {
     width: auto;
     margin-bottom: 10px;
-    font-size: 1rem;
 
     a {
       text-decoration: none;
+      font-size: 1rem;
     }
 
     .row {
       display: flex;
       align-items: center;
+      font-size: 1rem;
     }
 
     .card {
+      font-size: 1rem;
       img {
-        width: 50%;
+        width: 100%;
       }
     }
   }
@@ -316,11 +318,11 @@ footer.sticky-bottom div {
   .grid-item {
     width: 250px;
     margin-bottom: 10px;
-    font-size: 1rem;
 
     a {
       color: black;
       text-decoration: none;
+      font-size: 1rem;
 
       &:hover {
         color: var(--global-theme-color);
@@ -328,8 +330,9 @@ footer.sticky-bottom div {
     }
 
     .card {
+      font-size: 1rem;
       img {
-        width: 50%;
+        width: 100%;
       }
       .card-title {
         color: $black-color;
