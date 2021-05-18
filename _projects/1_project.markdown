@@ -7,4 +7,10 @@ importance: 1
 category: academic
 ---
 
+Project Duration: 
+
+Supervisors:
+
+<br>
+
 <h2 id="Abstract">Abstract</h2>
