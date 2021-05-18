@@ -5,7 +5,7 @@ permalink: /projects/
 description: List of projects I have worked on.
 nav: true
 display_categories: [academic, fun]
-horizontal: true
+horizontal: false
 ---
 
 <div class="projects">
