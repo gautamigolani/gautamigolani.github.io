@@ -2,7 +2,7 @@
 layout: page
 title: Framework of Repetitive Path Planning and Control for UR5 Manipulator
 description: Planning and control model for robot manipulators
-img: 
+img: /assets/img/fig11.jpg
 importance: 2
 category: academic
 ---
@@ -10,6 +10,8 @@ category: academic
 Project Duration: 
 
 Supervisors:
+
+<br>
 
 <div id="toc_container">
 <p class="toc_title">Contents</p>
