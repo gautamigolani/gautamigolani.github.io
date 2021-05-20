@@ -31,6 +31,18 @@ For the past few years, manipulators have been used for a number of different ap
 <br>
 
 <h2 id="Demo">Demo</h2>
+<div id="videoal">
+    <div class="video">
+        <video controls>
+            <source src="/assets/img/ur_bef_cont.mp4" type="video/mp4">
+        </video>
+    </div>
+    <div class="video">
+       <video controls>
+           <source src="/assets/img/ur_aft_cont.mp4" type="video/mp4">
+       </video>
+    </div>
+</div>
 
 <br>
 
