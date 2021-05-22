@@ -33,6 +33,7 @@ For the past few years, manipulators have been used for a number of different ap
 <br>
 
 <h2 id="Demo">Demo</h2>
+<center>
 <div id="videoal">
     <div class="video">
         <video controls>
@@ -45,6 +46,7 @@ For the past few years, manipulators have been used for a number of different ap
        </video>
     </div>
 </div>
+<center>
 
 <br>
 
