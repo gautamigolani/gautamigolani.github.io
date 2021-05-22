@@ -315,7 +315,6 @@ footer.sticky-bottom div {
   .grid-item {
     width: 800px;
     margin-bottom: 10px;
-    align-items: center;
 
     a {
       color: black;
@@ -332,7 +331,7 @@ footer.sticky-bottom div {
       }
       .card-title {
         color: $black-color;
-        font-size: 1.875rem;
+        font-size: 1.675rem;
       }
     }
   }
@@ -504,11 +503,12 @@ html.transition *:after {
 
 #videoal {
   margin: 30px 0px 0px 20px;
+  align-items: center;
   }
 
   #videoal div.video {
   display: inline-block;
-  zoom: 1;
+  zoom: 2;
   *display: inline;
   width: 300px;
   height: 350px;
