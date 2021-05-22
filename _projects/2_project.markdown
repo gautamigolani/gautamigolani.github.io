@@ -46,7 +46,7 @@ For the past few years, manipulators have been used for a number of different ap
        </video>
     </div>
 </div>
-<center>
+</center>
 
 <br>
 
