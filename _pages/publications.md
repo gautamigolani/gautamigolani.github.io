@@ -14,4 +14,6 @@ Conference publications
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
+Journal papers
+
 </div>
