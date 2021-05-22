@@ -292,6 +292,10 @@ footer.sticky-bottom div {
 // Projects
 
 .projects {
+  p {
+    text-align: justify;
+   }
+
   .card-item {
     width: auto;
     margin-bottom: 10px;
@@ -319,6 +323,7 @@ footer.sticky-bottom div {
     a {
       color: black;
       text-decoration: none;
+      text-align: justify;
   
       &:hover {
         color: var(--global-theme-color);
@@ -331,7 +336,7 @@ footer.sticky-bottom div {
       }
       .card-title {
         color: $black-color;
-        font-size: 1.675rem;
+        font-size: 1.6rem;
       }
     }
   }

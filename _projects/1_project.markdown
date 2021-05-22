@@ -7,11 +7,11 @@ importance: 1
 category: academic
 ---
 
-Project Location: Control & Simulation Lab, NUS
+<b>Project Location:</b> Control & Simulation Lab, NUS
 
-Project Duration: March 2019 - November 2019
+<b>Project Duration:</b> March 2019 - November 2019
 
-Supervisor: <a href="https://www.eng.nus.edu.sg/ece/staff/ge-shuzhi-sam/">Prof. Sam Shuzhi Ge</a>
+<b>Supervisor:</b> <a href="https://www.eng.nus.edu.sg/ece/staff/ge-shuzhi-sam/">Prof. Sam Shuzhi Ge</a>
 
 <br>
 

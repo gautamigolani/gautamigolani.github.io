@@ -7,9 +7,11 @@ importance: 2
 category: academic
 ---
 
-Project Duration: 
+<b>Project Location:</b> Control & Simulation Lab, NUS
 
-Supervisors:
+<b>Project Duration:</b> March 2019 - May 2019
+
+<b>Supervisor:</b> <a href="https://www.eng.nus.edu.sg/ece/staff/ge-shuzhi-sam/">Prof. Sam Shuzhi Ge</a>
 
 <br>
 
@@ -47,6 +49,7 @@ For the past few years, manipulators have been used for a number of different ap
 <br>
 
 <h2 id="Code">Code</h2>
+The code for this project will be available on GitHub soon!
 
 <br>
 
