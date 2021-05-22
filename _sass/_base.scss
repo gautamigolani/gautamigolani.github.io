@@ -315,6 +315,7 @@ footer.sticky-bottom div {
   .grid-item {
     width: 800px;
     margin-bottom: 10px;
+    align-items: center;
 
     a {
       color: black;
@@ -327,12 +328,11 @@ footer.sticky-bottom div {
 
     .card {
       img {
-        align-items: center;
         width: 60%;
       }
       .card-title {
         color: $black-color;
-        font-size: 2rem;
+        font-size: 1.875rem;
       }
     }
   }
