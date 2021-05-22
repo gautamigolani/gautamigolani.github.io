@@ -46,7 +46,7 @@ For the past few years, manipulators have been used for a number of different ap
        </video>
     </div>
 </div>
-Visualization of the manipulator before and after implementation of the scheme and controller
+<b>Visualization of the manipulator before and after implementation of the scheme and controller</b>
 </center>
 
 <br>
