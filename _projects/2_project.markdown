@@ -56,7 +56,8 @@ The code for this project will be available on GitHub soon!
 
 <br>
 
-<h2 id="References">References</h2>
+<details>
+<summary><h2 id="References">References</h2></summary>
 <ol align="justify"> 
         <li>https://www.universal-robots.com/</li>
         <li>W. Khalil and E. Dombre, Modeling, Identification and Control of Robots, Elsevier, 2004.</li>
@@ -81,6 +82,7 @@ The code for this project will be available on GitHub soon!
         <li>F. Piltan, M. H. Yarmahmoudi, M. Shamsodini, E. Mazlomian, A. Hosainpour, "PUMA-560 Robot Manipulator Position Computed Torque Control Methods Using MATLAB/SIMULINK and their Integration into Graduate Nonlinear Control and MATLAB Courses," Int. Journal of Robot. & Autom.
         (IJRA), vol. 3, issue 3, pp. 167-191, 2012.</li>
 </ol>
+</details>
 
 
 
