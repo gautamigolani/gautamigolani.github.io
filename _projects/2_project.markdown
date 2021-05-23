@@ -56,9 +56,10 @@ The code for this project will be available on GitHub soon!
 
 <br>
 
+<h2 id="References">References</h2>
 <details>
-<summary><h2 id="References">References</h2></summary>
-<ol> 
+<summary>List of references for this project</summary>
+<ol align="justify"> 
     <li>https://www.universal-robots.com/</li>
     <li>W. Khalil and E. Dombre, Modeling, Identification and Control of Robots, Elsevier, 2004.</li>
     <li>J. J. Craig, Introduction to Robotics: Mechanics and Control, Pearson/Prentice Hall Upper Saddle River, NJ, 2005.</li>
