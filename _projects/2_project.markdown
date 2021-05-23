@@ -59,6 +59,7 @@ The code for this project will be available on GitHub soon!
 <h2 id="References">References</h2>
 <details>
 <summary>List of references for this project</summary>
+<br>
 <ol align="justify"> 
     <li>https://www.universal-robots.com/</li>
     <li>W. Khalil and E. Dombre, Modeling, Identification and Control of Robots, Elsevier, 2004.</li>
