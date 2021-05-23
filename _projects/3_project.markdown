@@ -13,6 +13,8 @@ category: academic
 
 <b>Supervisor:</b> <a href="https://scholar.google.com/citations?user=Geu_kHAAAAAJ&hl=en">Prof. Royson Dsouza</a>
 
+<b>Team Members:</b> 
+
 <br>
 
 <div id="toc_container">
@@ -27,13 +29,15 @@ category: academic
 
 <br>
 
-<b>Team Members:</b> 
-
 <h2 id="Abstract">Abstract</h2>
 
 
+<br>
+
 <h2 id="Assembly">Prototype to Final Assembly</h2>
 
+
+<br>
 
 <h2 id="Demo">Demo</h2>
 
