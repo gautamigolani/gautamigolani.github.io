@@ -325,6 +325,10 @@ footer.sticky-bottom div {
         color: var(--global-theme-color);
       }
     }
+    
+    .title {
+      font-size: 0.875rem;
+    }
 
     .card {
       img {
@@ -332,7 +336,7 @@ footer.sticky-bottom div {
       }
       .card-title {
         color: $black-color;
-        font-size: 0.875rem;
+        font-size: 1.2rem;
       }
     }
   }
