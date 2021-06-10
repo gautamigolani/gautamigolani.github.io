@@ -15,10 +15,14 @@ authors:
 
 ---
 
+> This project was done uner the supervision of <a href="https://www.eng.nus.edu.sg/ece/staff/ge-shuzhi-sam/">Prof. Sam Shuzhi Ge</a> at the Control & Simulation Lab at NUS, Singapore from March 2019 - November 2019.
+
+---
+
 ## Abstract
 
 Will be updated soon.
 
 ---
 
-<d-footnote>This project was done under the supervision of <a href="https://www.eng.nus.edu.sg/ece/staff/ge-shuzhi-sam/">Prof. Sam Shuzhi Ge</a> at the Control and Simulation Lab at NUS, Singapore from March 2019 - November 2019.</d-footnote>
+

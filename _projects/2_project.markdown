@@ -15,6 +15,10 @@ authors:
 
 ---
 
+> This project was done uner the supervision of <a href="https://www.eng.nus.edu.sg/ece/staff/ge-shuzhi-sam/">Prof. Sam Shuzhi Ge</a> at the Control & Simulation Lab at NUS, Singapore from March 2019 - November 2019.
+
+---
+
 ## Abstract
 
 For the past few years, manipulators have been used for a number of different applications mainly due to their cost-effectiveness and flexibility, apart from other numerous advantages they offer. With the thought of exploring manipulators in detail, I have developed a complete path planning and control framework for a manipulator in this project, giving an insight into the area of planning for the UR5 manipulator (case study). The kinematic equations are first derived, following which the computed-torque controller is designed with the help of the dynamic equations. For path planning, a repetitive motion planning (RMP) scheme is analyzed and implemented on the manipulator. The models for the same are developed in Simulink while Simscape Multibody presents a new way of visualizing the model and observing its movement. Simulations are carried out at a later stage to verify whether the results obtained have substantiated the planning model or not.
@@ -22,21 +26,22 @@ For the past few years, manipulators have been used for a number of different ap
 ---
 ## Demo
 
-<center>
-<div id="videoal">
-    <div class="video">
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
         <video controls>
-            <source src="/assets/img/ur_bef_cont.mp4" type="video/mp4">
+            <source src="{{ site.baseurl }}/assets/img/ur_bef_cont.mp4" type="video/mp4">
         </video>
     </div>
-    <div class="video">
+ <div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
        <video controls>
-           <source src="/assets/img/ur_aft_cont.mp4" type="video/mp4">
+           <source src="{{ site.baseurl }}/assets/img/ur_aft_cont.mp4" type="video/mp4">
        </video>
     </div>
 </div>
-<b>Visualization of the manipulator before and after implementation of the scheme and controller</b>
-</center>
+<div class="caption">
+Visualization of the manipulator before and after implementation of the scheme and controller
+</div>
 
 ---
 
