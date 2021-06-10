@@ -26,22 +26,23 @@ For the past few years, manipulators have been used for a number of different ap
 ---
 ## Demo
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+<center>
+<div id="videoal">
+    <div class="video">
         <video controls>
-            <source src="{{ site.baseurl }}/assets/img/ur_bef_cont.mp4" type="video/mp4">
+            <source src="/assets/img/ur_bef_cont.mp4" type="video/mp4">
         </video>
     </div>
- <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="video">
        <video controls>
-           <source src="{{ site.baseurl }}/assets/img/ur_aft_cont.mp4" type="video/mp4">
+           <source src="/assets/img/ur_aft_cont.mp4" type="video/mp4">
        </video>
     </div>
 </div>
 <div class="caption">
 Visualization of the manipulator before and after implementation of the scheme and controller
 </div>
+</center>
 
 ---
 
