@@ -5,13 +5,28 @@ description: B.Tech Project
 img: 
 importance: 3
 category: academic
-date: 2021-06-010
+date: 2021-06-10
 
 authors:
   - name: Gautami Golani
     url: "https://gautamigolani.github.io/"
     affiliations:
-      name: NUS, Singapore
+      name: MAHE, Dubai
+
+  - name: Ashwin Suresh
+    url: 
+    affiliations:
+      name: MAHE, Dubai
+
+  - name: Rohini Basu
+    url:
+    affiliations:
+      name: MAHE, Dubai
+
+  - name: Vaibhav Raj Vyas
+    url:
+    affiliations:
+      name: MAHE, Dubai
 
 ---
 
