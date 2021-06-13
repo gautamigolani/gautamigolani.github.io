@@ -506,3 +506,11 @@ html.transition *:after {
   width: 100%;
   height: 100%;
   }
+
+  #TOC {
+    position: fixed;
+    z-index: 50;
+    background: #ebebeb;     /* or   background: white; */
+    padding: 10px;           /* optional */
+    border-radius: 5px;      /* optional */
+    }
