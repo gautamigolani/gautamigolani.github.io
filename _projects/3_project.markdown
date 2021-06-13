@@ -36,19 +36,13 @@ authors:
 
 
 
----
-
 ## Prototype to Final Assembly
 
 
 
----
-
 ## Demo
 
 
-
----
 
 ## References
 
