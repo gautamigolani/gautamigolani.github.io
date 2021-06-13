@@ -4,7 +4,6 @@ title: "Wild Animals: a GUI based project"
 description: Code in Place 2021 Final Project
 img:
 importance: 3
-category: fun
 ---
 
 <b>Project Duration:</b> 25 May 2021 - 28 May 2021
