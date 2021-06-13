@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Wild Animals: a GUI based project"
-description: Code in Place 2021 Final Project
+title: Code in Place 2021 Final Project
+description: a GUI based project
 img:
 importance: 3
 category: fun
