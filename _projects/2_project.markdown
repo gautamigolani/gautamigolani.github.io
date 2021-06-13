@@ -21,7 +21,6 @@ authors:
 
 For the past few years, manipulators have been used for a number of different applications mainly due to their cost-effectiveness and flexibility, apart from other numerous advantages they offer. With the thought of exploring manipulators in detail, I have developed a complete path planning and control framework for a manipulator in this project, giving an insight into the area of planning for the UR5 manipulator (case study). The kinematic equations are first derived, following which the computed-torque controller is designed with the help of the dynamic equations. For path planning, a repetitive motion planning (RMP) scheme is analyzed and implemented on the manipulator. The models for the same are developed in Simulink while Simscape Multibody presents a new way of visualizing the model and observing its movement. Simulations are carried out at a later stage to verify whether the results obtained have substantiated the planning model or not.
 
----
 ## Demo
 
 <center>
@@ -42,13 +41,9 @@ Visualization of the manipulator before and after implementation of the scheme a
 </div>
 </center>
 
----
-
 ## Code
 
 The code for this project will be available on GitHub soon!
-
----
 
 <h2 id="References">References</h2>
 <details>
