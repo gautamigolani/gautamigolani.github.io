@@ -6,9 +6,6 @@ img:
 importance: 1
 category: academic
 date: 2021-06-09
-output: 
-  distill::distill_article:
-    toc: true
 
 authors:
   - name: Gautami Golani
