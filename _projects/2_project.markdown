@@ -9,8 +9,6 @@ date: 2021-06-09
 
 bibliography: 2021-06-09-distill.bib
 
-nocite: '@*'
-
 authors:
   - name: Gautami Golani
     url: "https://gautamigolani.github.io/"
