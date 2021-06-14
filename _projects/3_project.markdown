@@ -14,17 +14,17 @@ authors:
       name: MAHE, Dubai
 
   - name: Ashwin Suresh
-    url: 
+    url: "https://ca.linkedin.com/in/ashwin-suresh-862410160"
     affiliations:
       name: MAHE, Dubai
 
   - name: Rohini Basu
-    url:
+    url: "https://www.linkedin.com/in/rohini-basu"
     affiliations:
       name: MAHE, Dubai
 
   - name: Vaibhav Raj Vyas
-    url:
+    url: "https://ae.linkedin.com/in/vaibhavrajvyas"
     affiliations:
       name: MAHE, Dubai
 
