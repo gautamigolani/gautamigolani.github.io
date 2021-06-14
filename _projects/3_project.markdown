@@ -44,8 +44,6 @@ authors:
 
 
 
-## References
-
 
 
 
