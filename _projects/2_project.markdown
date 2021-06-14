@@ -7,6 +7,8 @@ importance: 2
 category: academic
 date: 2021-06-09
 
+bibliography: 2021-06-09-distill.bib 
+
 authors:
   - name: Gautami Golani
     url: "https://gautamigolani.github.io/"
